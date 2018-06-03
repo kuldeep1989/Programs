@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name = "TestNG session Test Automation Suite">
+	<test name = "Different testng feature test">
+		<classes>
+			<class name = "com.test.TestNGAssertTest"></class>
+			<class name = "com.test.TestNGDepends"></class>
+			<class name = "com.test.TestNGPriorityGroups"></class>
+		</classes>
+
+<!-- 
+	<packages>
+		<package name = ""></package>
+	</packages>
+ -->
+ 	
+	</test>
+</suite>

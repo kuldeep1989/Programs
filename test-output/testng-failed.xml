@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [TestNG session Test Automation Suite]">
+  <test thread-count="5" name="Different testng feature test(failed)">
+    <classes>
+      <class name="com.test.TestNGAssertTest">
+        <methods>
+          <include name="googleTitleTest"/>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.test.TestNGAssertTest -->
+    </classes>
+  </test> <!-- Different testng feature test(failed) -->
+</suite> <!-- Failed suite [TestNG session Test Automation Suite] -->
